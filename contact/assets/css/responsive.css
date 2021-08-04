@@ -1,6 +1,3 @@
-/*=========================== 
-===========================================	1024px 
-===========================*/
 @media only screen and (max-width: 1024px) {
 	body .wrapper:before {
 		display: none !important;
@@ -214,19 +211,12 @@
 	}
 }
 
-
-/*=========================== 
-===========================================	960px =========================
-===========================*/
 @media only screen and (max-width: 960px) {
 	/*=========================== 
 		CART: Shipping-calculator
 	===========================*/
 	.shipping-calculator-form { width: 100%; }
 
-	/*=========================== 
-		WOOCOMMERCE: Messages
-	===========================*/
 	.woocommerce .woocommerce-error,
 	.woocommerce-page .woocommerce-error { width: 80%; }
 
@@ -253,10 +243,6 @@
 }
 
 
-/*=========================== 
-===========================================	768px =========================
-===========================*/
-
 @media only screen and (max-width: 768px) {
 	#content h1.page-title,
 	#content h1,
@@ -270,15 +256,9 @@
 
 	#order_review td.product-name { width: 40%; }
 
-	/*=========================== 
-		Price Styling
-	===========================*/
 	.jcarousel-skin-header-slider .amount,
 	.amount { font-size: 26px; }
 
-	/*=========================== 
-		Breadcrumbs
-	===========================*/
 	#content .breadcrumbs,
 	.content .breadcrumbs {
 		padding-bottom: 18px;
@@ -322,10 +302,6 @@
 		width: 100%;
 		margin: 0 auto;
 	}
-
-	/*=========================== 
-		Search in Shop
-	===========================*/
 	.woocommerce .woocommerce-ordering,
 	.woocommerce-page .woocommerce-ordering { float: none; width: 100%; }
 	.woocommerce .woocommerce-ordering select,
