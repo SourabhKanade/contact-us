@@ -50,13 +50,7 @@
 
 	.top-nav nav { width: auto; }
 	.top-nav nav.desktop { display: none; }
-	/*
-	.top-nav .woocommerce-product-search {
-		display: none;
-		float: left;
-		width: auto;
-	}
-	*/
+	
 	.top-nav #searchform {
 		display: none;
 	}
@@ -474,9 +468,9 @@
 	}
 }
 
-/*=========================== 
-===========================================	600px =========================
-===========================*/
+ 
+/*=============================	600px ================================*/
+
 
 @media only screen and (max-width: 600px) {
 
